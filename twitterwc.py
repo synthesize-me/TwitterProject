@@ -1,0 +1,2 @@
+class TwitterWC(object):
+    pass
